@@ -3,8 +3,8 @@
 src/
 ├─ ts-react-app
 ├─ snippet
-│    └─countTree
-│
+│    ├─countTree
+│    └─saveImage
 └─ package.json
 ```
 
@@ -17,3 +17,4 @@ create-react-app ts-react-app --scripts-version=react-scripts-ts
 
 - countTree 统计html中dom节点数量
 
+- saveImage 保存图片
