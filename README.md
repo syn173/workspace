@@ -1,6 +1,6 @@
 # javascript
 ```
-src/
+projects/
 ├─ ts-react-app
 ├─ snippet
 │    ├─countTree
